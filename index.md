@@ -1,7 +1,7 @@
 # My Knowledge Map
 ## Language
-### [c](https::/github.com/xiaomiao22/manknows/notes/c.md)
-### [java](https::/github.com/xiaomiao22/manknows/notes/java.md)
+### [c](https:/github.com/xiaomiao22/manknows/notes/c.md)
+### [java](https:/github.com/xiaomiao22/manknows/notes/java.md)
 
 
 ## Data
@@ -16,9 +16,9 @@
 ### embedded
 
 ## Tools
-### [vim](https::/github.com/xiaomiao22/manknows/notes/vim.md)
-### [atom](https::/github.com/xiaomiao22/manknows/notes/atom.md)
-### [git](https::/github.com/xiaomiao22/manknows/notes/git.md)
+### [vim](https:/github.com/xiaomiao22/manknows/notes/vim.md)
+### [atom](https:/github.com/xiaomiao22/manknows/notes/atom.md)
+### [git](https:/github.com/xiaomiao22/manknows/notes/git.md)
 
 ### gcc
 ### make
