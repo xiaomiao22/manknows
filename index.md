@@ -1,37 +1,36 @@
 # My Knowledge Map
 ## Language
-### [c](https://github.com/xiaomiao22/manknows/blob/master/notes/c.md)
-### [java](https://github.com/xiaomiao22/manknows/blob/master/notes/java.md)
+* [c](./notes/c.md) 
+* [java](./notes/java.md)
 
 
 ## Data
-### algorithms
+* algorithms
 
 ## Operating System
-### system
-### UNIX
-### Linux
+* system
+* UNIX
+* Linux
 
 ## Handware
-### embedded
+* embedded
 
 ## Tools
-### [vim](https://github.com/xiaomiao22/manknows/blob/master/notes/vim.md)
-### [atom](https://github.com/xiaomiao22/manknows/blob/master/notes/atom.md)
-### [atom](https://github.com/xiaomiao22/manknows/blob/master/notes/atom.md)
-### [git](https://github.com/xiaomiao22/manknows/blob/master/notes/git.md)
-
-### gcc
-### make
-### autotools
-### clang
+* [vim](./notes/vim.md)
+* [atom](./notes/atom.md)
+* [atom](./notes/atom.md)
+* [git](./notes/git.md)
+* gcc
+* make
+* autotools
+* clang
 
 ## Process
-### environment
-### file
-### io
-### process
-### thread
+* environment
+* file
+* io
+* process
+* thread
 
 ## Server
-### nginx
+* nginx
