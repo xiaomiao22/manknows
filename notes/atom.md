@@ -3,7 +3,7 @@
 ## Table of Contents
 - [概述](#概述)
 	- [版本历史](#版本历史)
-		- [安装](#安装)
+	- [安装](#安装)
 		- [Linux](#Linux)
 		- [Windows](#Windows)
 - [基础管理](#基础管理)
