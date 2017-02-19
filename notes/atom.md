@@ -14,12 +14,12 @@
 	- [查找和替换](#查找和替换)
 - [内置插件](#内置插件)
 - [常用插件](#常用插件)
-	
+
 - [场景搭建](#场景搭建)
 	- [C/C++开发环境搭建](C/C++开发环境搭建)
 	- [Java开发环境搭建](Java开发环境搭建)
 - [插件开发](#插件开发)
-		
+
 - [其他](#其他)
 
 ---------------------------------------------------------------------
@@ -38,8 +38,9 @@ $ sudo apt-get install atom
 ##### Debian
 Download atom-amd64.deb from the Atom releases page.
 ```
-# dpkg --install atom-amd64.deb on the downloaded package.
+# dpkg --install atom-amd64.deb
 ```
+
 #### Windows
 Download AtomSetup.exe from the Atom releases page.
 
@@ -86,17 +87,19 @@ cmd-shift-f |  | 在整个项目中查找
 
 ## 常见插件
 ### 汉化插件
-**Name：** simplified-chinese-menu 
+**Name：** simplified-chinese-menu
 
 ### tags标签
 **Name:** atom-ctags
 
 ### 符号树
-**Name:** symbols-tree-view
-**usage：**
+**Name:** symbols-tree-view  
+
+**usage:**  
+
  Shortcut key   | Command  | Description
  -------------- | ---------|------------
-cmd-f  | - | 在工作面板上展开符号树
+cmd-f  |  | 在工作面板上展开符号树
 
 ## 场景搭建
 ### C/C++开发环境搭建
@@ -105,7 +108,7 @@ cmd-f  | - | 在工作面板上展开符号树
 
 #### 语法检测
 **Install Package:** linter  linter-clang
- 
+
 #### gdb调试
 **Install Package:** atom-gdb-debugger
 
@@ -115,5 +118,3 @@ cmd-f  | - | 在工作面板上展开符号树
 ## 插件开发
 
 ## 其他
-
-
