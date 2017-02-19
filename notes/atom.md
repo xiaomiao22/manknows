@@ -22,27 +22,7 @@
 		
 - [其他](#其他)
 
-
-## 概述
-### 版本历史
-
-### 安装
-#### Linux
-##### Ubuntu
-```
-$ sudo add-apt-repository ppa:webupd8team/atom
-$ sudo apt-get update
-$ sudo apt-get install atom
-```
-- [常用插件](#常用插件)
-	
-- [场景搭建](#场景搭建)
-	- [C/C++开发环境搭建](C/C++开发环境搭建)
-	- [Java开发环境搭建](Java开发环境搭建)
-- [插件开发](#插件开发)
-		
-- [其他](#其他)
-
+---------------------------------------------------------------------
 
 ## 概述
 ### 版本历史
@@ -107,8 +87,10 @@ cmd-shift-f |  | 在整个项目中查找
 ## 常见插件
 ### 汉化插件
 **Name：** simplified-chinese-menu 
+
 ### tags标签
 **Name:** atom-ctags
+
 ### 符号树
 **Name:** symbols-tree-view
 **usage：**
