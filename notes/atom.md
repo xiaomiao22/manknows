@@ -16,8 +16,8 @@
 - [常用插件](#常用插件)
 
 - [场景搭建](#场景搭建)
-	- [C/C++开发环境搭建](C/C++开发环境搭建)
-	- [Java开发环境搭建](Java开发环境搭建)
+	- [C/C++开发环境搭建](#C/C++开发环境搭建)
+	- [Java开发环境搭建](#Java开发环境搭建)
 - [插件开发](#插件开发)
 
 - [其他](#其他)
@@ -29,13 +29,13 @@
 
 ### 安装
 #### Linux
-##### Ubuntu
+* Ubuntu
 ```
 $ sudo add-apt-repository ppa:webupd8team/atom
 $ sudo apt-get update
 $ sudo apt-get install atom
 ```
-##### Debian
+* Debian
 Download atom-amd64.deb from the Atom releases page.
 ```
 # dpkg --install atom-amd64.deb
