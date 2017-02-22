@@ -27,7 +27,7 @@ NetBeans是开源软件开发集成环境，是一个开放框架，可扩展的
 
 ### 1.3 NetBeans界面介绍
 NetBeans的GUI构建器的界面简要介绍如下:
-![NetBeans-gui-show](./picture/NetBeans-gui-show.png)
+![NetBeans-gui-show](../picture/NetBeans-gui-show.png)
 
 ### 1.4 在NetBeans中创建项目
 #### 创建项目
