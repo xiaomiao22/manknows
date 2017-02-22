@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [概述](#概述)
-	- [版本历史](#版本历史)
+	- [简介](#简介)
 	- [安装](#安装)
 		- [Linux](#Linux)
 		- [Windows](#Windows)
@@ -25,8 +25,8 @@
 ---------------------------------------------------------------------
 
 ## 概述
-### 版本历史
-
+### 简介
+Atom是github专门为程序员推出的一个跨平台文本编辑器.具有简洁和直观的图形用户界面,并有很多有趣的特点:支持CSS,HTML,JavaScript等网页编程语言.它支持宏,自动完成分屏功能,集成了文件管理器.
 ### 安装
 #### Linux
 * Ubuntu
@@ -66,7 +66,7 @@ Edit--Settings--Package
 4. 可以在Packages里面根据提示进行插件的设置
 * 在atom外部进行安装
 ```
-$apm install <package_name> 会安装最新版本
+$apm install <package_name>
 ```
 
 
